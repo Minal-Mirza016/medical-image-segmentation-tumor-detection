@@ -54,13 +54,45 @@ medical-image-segmentation-tumor-detection
 
 ## Screenshots
 
-Project screenshots will be added here.
+### Original Medical Image
 
-Example:
+![Original Image](images/original_img.png)
 
-![Input Image](images/input.png)
+---
 
-![Segmented Output](images/output.png)
+### Preprocessed Image
+
+![Preprocessed Image](images/preprocessed_img.png)
+
+---
+
+### Thresholding
+
+![Thresholding](images/Thresholding_img.png)
+
+---
+
+### Region Growing
+
+![Region Growing](images/Region%20Growing_img.png)
+
+---
+
+### Morphological Operations
+
+![Morphological Operations](images/Morphological_img.png)
+
+---
+
+### Boundary Detection
+
+![Boundary Detection](images/Boundary_img.png)
+
+---
+
+### Final Tumor Detection Result
+
+![Tumor Detection](images/Tumor%20Detection_img.png)
 
 ---
 
